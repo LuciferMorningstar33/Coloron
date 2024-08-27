@@ -23,7 +23,7 @@ Coloron is a dynamic and engaging game where players must match the color of a b
 No need to install Coloron, follow these steps:
 
 1. Open the game from [link to your game store or website].
-2. Open the site and start playing!
+2. Open the site and start playing! 
 
 ## Share Your Score
 
